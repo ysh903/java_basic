@@ -1,0 +1,7 @@
+url=jdbc:oracle:this:@127.0.0.1:1521
+user=scott
+pw=tiger
+driver=oracle.jdbc.OracleDriver
+
+
+
